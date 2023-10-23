@@ -1,10 +1,12 @@
 ---
 layout: page
-title: Schedule
+nav_exclude: true
 description: The weekly event schedule.
 ---
 
-# Weekly Schedule
+# 课时安排
+
+### 2023年秋季，第1周至第18周
 
 {% for schedule in site.schedules %}
 {{ schedule }}
