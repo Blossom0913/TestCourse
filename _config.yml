@@ -17,9 +17,9 @@ title: 人工智能
 tagline: 人工智能课
 description: 人工智能在交通领域的研究与应用
 author: Zhiyong Cui
-baseurl: '/TAI' # the subpath of your site, e.g. /blog
+baseurl: '/testcourse' # the subpath of your site, e.g. /blog
 # url: 'https://kevinl.info' # the base hostname & protocol for your site, e.g. http://example.com
-url: "https://zhiyongc.github.io"
+url: "https://blossom0913.github.io"
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
