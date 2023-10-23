@@ -1,23 +1,16 @@
 ---
-title: Basic Data Structures
+title: 第三周
 ---
 
-Oct 5
-: [Linked Lists & Encapsulation](#)
-  : [3.1](#), [2.2](#), [2.3](#)
+Sep 21
+: [机器学习基础](https://bhpan.buaa.edu.cn/link/AA131CB2A168C14CAAA5CA431AC720DF99), [深度学习框架简介与PyTorch](https://bhpan.buaa.edu.cn/link/AA61A60F1D27EC42529A72B62A8C4BFDD5)
+  : **练习-0 截止**{: .label .label-green }
 
-Oct 6
-: **Section**{: .label .label-purple }[Linked Lists](#)
-  : [Solution](#)
+<!-- Sep 21
+: [机器学习基础]( {{ site.baseurl }}/Files/2-机器学习基础.pdf), [深度学习框架简介与PyTorch]({{ site.baseurl }}/Files/2-深度学习框架简介与PyTorch.pdf)
+  : **练习-0 截止**{: .label .label-green }
+  -->
 
-Oct 7
-: [Resizing Arrays](#)
-  : [2.4](#), [2.5](#)
-
-Oct 8
-: **Lab**{: .label .label-purple } [Resizing Arrays](#)
-
-Oct 9
-: [Runtime Analysis](#)
-  : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
-: **HW 2 due**{: .label .label-red }
+<!-- https://bhpan.buaa.edu.cn/link/AA61A60F1D27EC42529A72B62A8C4BFDD5
+文件名：2-深度学习框架简介与PyTorch.pdf
+有效期限：2023-12-31 23:42 -->
